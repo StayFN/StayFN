@@ -1,7 +1,7 @@
 ### Hi there, im Stefan👋
 
 - 🔭 Product Software Engineer at a Tax & Accounting Software Provider
-- 🌱 M.Sc. Data Science at the University of Mannheim
+- 🌱 Currently pursuing a M.Sc. in Data Science at the University of Mannheim
 
 
 ### Languages and Tools
